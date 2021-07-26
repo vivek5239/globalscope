@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.services.status.ping_url</name>
+        <read_roles/>
+        <suffix>global</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>datacenterautomation@snc.maint</sys_created_by>
+        <sys_created_on>2021-07-16 13:27:35</sys_created_on>
+        <sys_id>6128a8c31b11301014462134604bcb8b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>glide.services.status.ping_url</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test Global app">aab703c21b21301014462134604bcb6e</sys_scope>
+        <sys_update_name>sys_properties_6128a8c31b11301014462134604bcb8b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-26 08:49:18</sys_updated_on>
+        <type>string</type>
+        <value>https://signaldc.service-now.com/api/x_snc_dish/gcs_ia_request_check</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=6128a8c31b11301014462134604bcb8b"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="test Global app">aab703c21b21301014462134604bcb6e</claim_owner_scope>
+        <claim_timestamp>17ae20111f40000001</claim_timestamp>
+        <metadata_update_name>sys_properties_6128a8c31b11301014462134604bcb8b</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>test Global app</previous_claim_name>
+        <previous_claim_scope>aab703c21b21301014462134604bcb6e</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-26 08:49:18</sys_created_on>
+        <sys_id>b258030a1b21301014462134604bcbb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-26 08:49:18</sys_updated_on>
+    </sys_claim>
+</record_update>
